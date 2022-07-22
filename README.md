@@ -24,8 +24,7 @@ UPB>Appraisal Loan amount (Ln Orig) greater than appraisal (orig apprd val amt) 
 Note that some of the above variables were derived from combinations of two others. There are various
 other combinations that may be useful.
 
-This assignment will examine the performance the some techniques for predicting default. We will use
-decision trees, neural networks and logistic regression.
+We will use decision trees, neural networks and logistic regression.
 
 Question:
 
@@ -56,9 +55,4 @@ performance, consider the confusion matrix, overall accuracy, accuracy on two cl
 lift values and also show the lift chart). Explain how you use these measures to determine which model
 is best suited for this problem?
 
-Do you have a preference for any specific model to use for this problem? Explain why (or why not).
-Note: Your report should clearly show performance by technique, and for the three different training
-datasets as well as for the test data. Performance should be on different measures indicated above, and
-you should indicate how you would use these measures for the specific business problem here. 
-should be presented in a manner that is easily readable and where performance comparisons clearly
-come through. (Of course, you need adequate writeup around the tables/graphs too)
+ 
